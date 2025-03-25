@@ -1,5 +1,5 @@
 # eGain_interview_2025
-**My interview project to Sales Engineer @eGain**
+**Yilin (Danny) Huang's interview project to Sales Engineer @eGain**
 
 This project demonstrates the end-to-end process of data cleansing, visualization, and web hosting. 
 The workflow involves cleaning and preparing data using Python with the Pandas library, visualizing the results with Google Looker Studio, and finally embedding the visualizations in an HTML webpage hosted on GitHub.
